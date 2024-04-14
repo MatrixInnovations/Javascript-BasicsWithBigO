@@ -22,9 +22,9 @@ let isGustTwoVegan = false   // O(1)
 
 
 
-if (isGustOneVegan === true && isGustTwoVegan === true) {    // O(1)
+if (isGustOneVegan && isGustTwoVegan) {    // O(1)
 	console.log('Only offer up vegan dishes')    // O(1)
-} else if (isGustOneVegan === true || isGustTwoVegan === true) {    // O(1)
+} else if (isGustOneVegan || isGustTwoVegan) {    // O(1)
 	console.log('Make sure to offer up some vegan options')    // O(1)
 } else {    // O(1)
 	console.log('Offer up anything on the menu')    // O(1)
