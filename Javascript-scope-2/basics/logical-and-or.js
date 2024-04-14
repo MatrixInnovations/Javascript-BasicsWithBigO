@@ -31,14 +31,15 @@ if (isGustOneVegan && isGustTwoVegan) {    // O(1)
 }
 
 
-The big O of the code above is O(1) this is constant time complexity. 
+// The big O of the code above is O(1) this is constant time complexity. 
 
-In terms of time complexity, constant time complexity (O(1)) represents the fastest possible execution 
-time for an algorithm. It means that the algorithm's runtime does not grow with the size of the input.
+// In terms of time complexity, constant time complexity (O(1)) represents the fastest possible execution 
+// time for an algorithm. It means that the algorithm's runtime does not grow with the size of the input.
 
-This is because the time taken to execute the algorithm remains constant, regardless of the size of the 
-input. In other words, the algorithm takes the same amount of time to complete its execution, regardless 
-of whether the input size is small or large.
+// This is because the time taken to execute the algorithm remains constant, regardless of the size of the 
+// input. In other words, the algorithm takes the same amount of time to complete its execution, regardless 
+// of whether the input size is small or large.
+
 
 
 
